@@ -12,6 +12,8 @@ patch:
   'npm:mime:20170907':
     - tap > codecov.io > request > form-data > mime:
         patched: '2019-09-19T09:40:25.432Z'
+    - tap > codecov.io > request > form-data > mime:
+        patched: '2019-09-19T13:40:14.404Z'
   'npm:minimatch:20160620':
     - tap > nyc > glob > minimatch:
         patched: '2019-09-19T09:40:25.432Z'
@@ -32,3 +34,5 @@ patch:
   'npm:tunnel-agent:20170305':
     - tap > codecov.io > request > tunnel-agent:
         patched: '2019-09-19T09:40:25.432Z'
+    - tap > codecov.io > request > tunnel-agent:
+        patched: '2019-09-19T13:40:14.404Z'
